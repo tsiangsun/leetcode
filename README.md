@@ -2,7 +2,7 @@
 This repo keeps a record of my coding challenges and the understanding of the algorithms in categories.
 
 ## String
-* [# 125. ValidPalindrome](./125_Valid_Palindrome.ipynb)
+* [# 125. Valid Palindrome](125_Valid_Palindrome.ipynb)
 * [# 564. Find the Closest Palindrome](./564_Find_the_Closest_Palindrome.ipynb)
 
 ## Linear data structure
