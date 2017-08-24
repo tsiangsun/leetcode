@@ -1,4 +1,4 @@
-# Solutions to leetcode problems
+# Solutions to leetcode problems in Python
 This repo keeps a record of my coding challenges and the understanding of the algorithms in categories.
 
 ## String
