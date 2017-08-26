@@ -5,7 +5,7 @@ This repo keeps a record of my coding challenges and the understanding of the al
 ## String
 * [Valid Palindrome #125](125_Valid_Palindrome.ipynb)
 * [Find the Closest Palindrome #564](./564_Find_the_Closest_Palindrome.ipynb)
-
+* [Valid Anagram # 242](242_Valid_Anagram.ipynb)
 
 
 
@@ -16,7 +16,7 @@ This repo keeps a record of my coding challenges and the understanding of the al
 ### Hash Table
 * [Two Sum #1](./1_Two_Sum.ipynb)
 * [Top K Frequent Elements #347](./347_Top_K_Frequent_Elements.ipynb)
-
+* [Valid Anagram # 242](242_Valid_Anagram.ipynb)
 
 ### Linked List
 
