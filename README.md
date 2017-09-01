@@ -6,6 +6,8 @@ This repo keeps a record of my coding challenges and the understanding of the al
 * [Valid Palindrome #125](125_Valid_Palindrome.ipynb)
 * [Find the Closest Palindrome #564](./564_Find_the_Closest_Palindrome.ipynb)
 * [Valid Anagram # 242](242_Valid_Anagram.ipynb)
+* [Longest Substring Without Repeating Characters #3](3_Longest_Substring_Without_Repeating_Characters.ipynb)
+* [Longest Palindromic Substring # 5](5_Longest_Palindromic_Substring.ipynb)
 
 
 
@@ -19,7 +21,7 @@ This repo keeps a record of my coding challenges and the understanding of the al
 * [Valid Anagram # 242](242_Valid_Anagram.ipynb)
 
 ### Linked List
-
+* [Add Two Numbers #2](./2_Add_Two_Numbers.ipynb)
 * [Reverse Linked List #206](./206_Reverse_Linked_List.ipynb)
 
 ### Stack
@@ -91,6 +93,9 @@ This repo keeps a record of my coding challenges and the understanding of the al
 ### 3. Backtracking
 
 ### 4. Dynamic Programming
+* [Longest Palindromic Substring # 5](5_Longest_Palindromic_Substring.ipynb)
+
+
 
 ### 5. Greedy
 
