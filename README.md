@@ -14,6 +14,7 @@ This repo keeps a record of my coding challenges and the understanding of the al
 ## Linear data structure
 
 ### Array / List
+* [Merge Intervals #56](56_Merge_Intervals.ipynb)
 
 ### Hash Table
 * [Two Sum #1](./1_Two_Sum.ipynb)
@@ -48,6 +49,11 @@ This repo keeps a record of my coding challenges and the understanding of the al
 ### Tree 
 
 ### 1. Binary Tree
+* [Balanced Binary Tree #110](110_Balanced_Binary_Tree.ipynb)
+* [Symmetric Tree #101](101_Symmetric_Tree.ipynb)
+* [Binary Tree Inorder Traversal #94](94_Binary_Tree_Inorder_Traversal.ipynb)
+* [Binary Tree Preorder Traversal #144](144_Binary_Tree_Preorder_Traversal.ipynb)
+* [Binary Tree Postorder Traversal #145](144_Binary_Tree_Postorder_Traversal.ipynb)
 
 ### 2. Binary Search Tree (BST)
 
@@ -104,6 +110,9 @@ This repo keeps a record of my coding challenges and the understanding of the al
 
 
 ## Bit Manipulation
+* [Single Number #136](136_Single_Number.ipynb)
+* [Single Number II #137](137_Single_Number_II.ipynb)
+* [Single Number III #260](260_Single_Number_III.ipynb)
 
 ## Mathematics
 
